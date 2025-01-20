@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tomasgrayvasco@gmail.com
+	name = Tomas Vasco
